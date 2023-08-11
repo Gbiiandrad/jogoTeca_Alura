@@ -10,7 +10,7 @@
 
 <br>
 
-## used API "virtualenv"
+## used API "Flask"
 To import the package that can be used to work with the framework.
 
 ```sh
