@@ -17,9 +17,6 @@ To import the package that can be used to work with the framework.
 pip install Flask
 ```
 
-### 📖 Documentation: <br>
-[Flask](https://flask.palletsprojects.com/en/2.3.x/) <br>
-
 
 ## used API "virtualenv"
 To import the package that can be used to work with the virtual environment.
@@ -52,4 +49,5 @@ Restricted
 >>> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 >>>  venv\Scripts\Activate
 ```
-
+### 📖 Documentation: <br>
+[Flask](https://flask.palletsprojects.com/en/2.3.x/) <br>
