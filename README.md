@@ -17,12 +17,18 @@ To import the package that can be used to work with the framework.
 pip install Flask
 ```
 
-
 ## used API "virtualenv"
 To import the package that can be used to work with the virtual environment.
 
 ```sh
 pip install virtualenv
+```
+
+## used API "mysqlclient"
+import this package is to work with database
+
+```sh
+pip3.exe install mysqlclient
 ```
 
 ## Terminal
